@@ -1,10 +1,6 @@
 # Hello, I'm Neeraja! 👋
 
-I'm a passionate data analyst with hands-on experience in **supply chain analytics** and **market research**. Over the past 6 months, I've been working as an **SCM Analyst at Scimplify**, where I automated dashboards for **EXIM operations, logistics tracking, open orders**, and **daily warehouse movements** using **Power BI** and **Google Sheets** to support real-time, data-driven decision-making.
-
-In addition, I built the **"Dynamic Warehouse-to-Customer Route Optimizer"** project at **Scimplify** using **Python, JSON, HTML, and CSS**. This tool identifies the most efficient delivery path from a warehouse to multiple customer locations using real-time map interaction and optimal routing logic.
-
-Previously, I interned at **Scimplify** as a **Market Research Analyst**, where I conducted research on specialty chemical markets, cleaned large datasets, and extracted insights to support growth strategies. My work contributed to a better understanding of customer needs, competitor activities, and market opportunities.
+I'm passionate about leveraging data analytics to empower businesses to make informed decisions and drive growth. With a strong foundation in tools like Excel, Power BI, SQL, and Python, I combine technical expertise with business acumen to deliver impactful solutions. Currently, I’m working as an **SCM Analyst** at **Scimplify**, where I focus on optimizing supply chain operations through data-driven insights
 
 ---
 
