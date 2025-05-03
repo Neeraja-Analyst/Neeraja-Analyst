@@ -33,14 +33,14 @@ Previously, I interned at **Scimplify** as a **Market Research Analyst**, where 
 ---
 ## 📊 Projects
 
-- **Business Insights 360**  
-  A comprehensive analysis project offering 360-degree insights into business performance and operations.
+- **AtliQ Hardware - Excel Sales & Finance Analytics**  
+  Analyzed sales and financial performance to deliver actionable insights for strategic decision-making
+  
+- **Ad-Hoc Insights SQL Project**  
+  Analyzed sales, pricing, and customer data to generate ad-hoc insights and presented strategic recommendations through clear visual storytelling
 
-- **Hospitality Analysis**  
-  Conducted in-depth data analysis to optimize operations and enhance guest experience in the hospitality industry.
-
-- **Festive Campaign Analysis**  
-  Evaluated the performance of marketing campaigns during festive seasons to identify what worked and what could be improved.
+- **AtliQ Mart - Supply Chain Analytics**  
+  Analyzed supply chain KPIs - On Time, In Full, and OTIF - to identify service gaps and improve customer satisfaction through a dynamic Power BI dashboard.
 
 ---
 ## 🤝 Let's Connect!
