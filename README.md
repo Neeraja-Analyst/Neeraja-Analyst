@@ -13,7 +13,7 @@ I'm passionate about leveraging data analytics to empower businesses to make inf
 ## 📌 About Me
 
 - 💼 **Passionate Data Analyst**  
-- 🏢 **Currently working as an SCM Analyst**  
+- 🏢 **Currently working as SCM Analyst**  
 - 🎓 **MBA in Business Analytics**  
 - 📘 **Bachelor's in Mathematics, Computer Science, and Statistics**
 
